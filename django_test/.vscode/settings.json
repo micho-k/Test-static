@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "window.zoomLevel": 1,
+    "files.associations": {
+        "*.html": "django-html"
+    },
+    "[django-html]": {
+    
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": true,
+            "strings": true
+        }
+    }
+}
